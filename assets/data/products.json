@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Product 1",
+    "price": 29.99,
+    "description": "Description for Product 1",
+    "category": "Category 1",
+    "image": "img.jpg1",
+    "rating": { "rate": 4.5, "count": 120 }
+  },
+  {
+    "id": 2,
+    "title": "Product 2",
+    "price": 39.99,
+    "description": "Description for Product 2",
+    "category": "Category 2",
+    "image": "img.jpg2",
+    "rating": { "rate": 4.3, "count": 90 }
+  },
+  {
+    "id": 3,
+    "title": "Product 3",
+    "price": 49.99,
+    "description": "Description for Product 3",
+    "category": "Category 1",
+    "image": "img.jpg3",
+    "rating": { "rate": 4.8, "count": 150 }
+  },
+  {
+    "id": 4,
+    "title": "Product 4",
+    "price": 19.99,
+    "description": "Description for Product 4",
+    "category": "Category 3",
+    "image": "img.jpg4",
+    "rating": { "rate": 4.0, "count": 80 }
+  },
+  {
+    "id": 5,
+    "title": "Product 5",
+    "price": 59.99,
+    "description": "Description for Product 5",
+    "category": "Category 2",
+    "image": "img.jpg5",
+    "rating": { "rate": 4.7, "count": 200 }
+  },
+  {
+    "id": 6,
+    "title": "Product 6",
+    "price": 34.99,
+    "description": "Description for Product 6",
+    "category": "Category 3",
+    "image": "img.jpg6",
+    "rating": { "rate": 4.2, "count": 100 }
+  }
+]
